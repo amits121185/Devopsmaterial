@@ -1,0 +1,9 @@
+1  cat
+    2  pwd
+    3  mkdir -p /opt/Devopsmaterial
+    4  cd /opt/Devopsmaterial/
+    5  git init
+    6  yum install git
+    7  git init
+    8  history
+
